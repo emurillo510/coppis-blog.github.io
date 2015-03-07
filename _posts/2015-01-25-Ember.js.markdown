@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Ember.JS: Overview"
-date:   2015-01-25 12:54:45
-categories: jekyll update
----
-# Hello World#
